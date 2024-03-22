@@ -26,7 +26,6 @@ const PostCard = () => {
           porro officia!
         </p>
         <Link href='/blog/post' className={style.link}>
-          {' '}
           Read More
         </Link>
       </div>
